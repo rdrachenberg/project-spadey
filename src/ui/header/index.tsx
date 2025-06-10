@@ -39,9 +39,6 @@ export default async function Header() {
 				</div>
 
 				<Navigation />
-
-				<a href='/login' className='action max-sm:w-full'>Login</a>
-
 				<Toggle />
 			</div>
 		</Wrapper>
